@@ -243,6 +243,11 @@ footer {
     padding: 100px 0;
 }
 
+.container {
+  position: relative;
+  width: 50%;
+}
+
 .overlay {
   position: absolute;
   top: 0;
