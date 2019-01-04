@@ -195,19 +195,19 @@ hr.small {
 /* Portfolio */
 
 .portfolio {
-    padding: 20px 0;
+    padding: 50px 0;
 }
 
 .portfolio-item {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .img-portfolio {
-    margin: 0 0;
+    margin: 0 auto;
 }
 
 .img-portfolio:hover {
-    opacity: 0.7;
+    opacity: 0.8;
 }
 
 /* Call to Action */
