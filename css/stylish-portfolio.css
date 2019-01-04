@@ -222,7 +222,7 @@ hr.small {
   text-align: center;
 }
 
-.img-portfolio:hover .overlay {
+.img-portfolio:hover {
     opacity: 0.8;
 }
 
