@@ -278,5 +278,7 @@ footer {
 }
 
 .service-image {
+    width: 200;
+    height: 200;
     border-radius: 80%;
 }
