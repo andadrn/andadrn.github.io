@@ -262,7 +262,7 @@ footer {
 }
 
 .container:hover .overlay {
-  opacity: 1;
+  opacity: 0.5;
 }
 
 .text-hover {
