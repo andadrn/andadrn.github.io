@@ -203,6 +203,7 @@ hr.small {
 }
 
 .img-portfolio {
+    display: block;
     margin: 0 auto;
 }
 
@@ -221,7 +222,7 @@ hr.small {
   text-align: center;
 }
 
-.img-portfolio:hover {
+.img-portfolio:hover .overlay {
     opacity: 0.7;
 }
 
