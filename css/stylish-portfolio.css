@@ -258,7 +258,7 @@ footer {
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #FFFFFF;
+  background-color: #000000;
 }
 
 .container:hover .overlay {
