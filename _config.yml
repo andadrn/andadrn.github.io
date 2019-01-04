@@ -9,10 +9,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner: aaa
-email: andadrn@gmail.com
-facebook_username:
-twitter_username:
+owner: taglich
+email: taglich.official@gmail.com
+facebook_username: taglich.official
 github_username:
 address:
   - line:
